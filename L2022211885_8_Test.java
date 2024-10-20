@@ -6,6 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class L2022211885_8_Test {
 
     private final Solution8 solution = new Solution8();
+    // 这是一段来自学号2022211877的注释代码,用于进行lab2的实验内容2
 /**
  * 测试类设计原则:
  * 等价类划分：根据输入数据的特点，可以将测试用例分为几个等价类：
